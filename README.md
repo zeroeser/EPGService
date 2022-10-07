@@ -1,2 +1,2 @@
 # EPGService
-docker-comp
+docker-compose up
