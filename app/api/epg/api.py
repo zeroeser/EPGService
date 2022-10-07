@@ -6,6 +6,6 @@ api_router = APIRouter()
 
 api_router.include_router(
     eval.router,
-    prefix="/eval",
+    prefix="",
     tags=["Вычисление eval"],
 )
