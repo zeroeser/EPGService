@@ -2,7 +2,7 @@ from pydantic import BaseSettings
 
 
 class Settings(BaseSettings):
-    API_PATH: str = "/epg"
+    API_PATH: str = ""
     PROJECT_NAME: str = "EPG"
 
 
