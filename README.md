@@ -1,2 +1,3 @@
 # EPGService
-docker-compose up
+### Terminal Commad:
+  - __docker-compose up__
